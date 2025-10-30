@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TVLauncher</string>
+    <string name="loading_apps">Loading applications…</string>
+    <string name="no_apps_found">No applications found</string>
+    <string name="error_loading_apps">Failed to load applications</string>
+    <string name="launch_error">Failed to launch app</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
